@@ -1,4 +1,4 @@
-<h2 align="left">Hi🌸! My name is Marta and I'm a Full Stack Web Developer, from Italy</h2>
+<h2 align="left">Hi! My name is Marta and I'm a Full Stack Web Developer, from Italy🌸</h2>
 
 ###
 
